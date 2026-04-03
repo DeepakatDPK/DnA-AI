@@ -1,2 +1,3 @@
-# DnA-AI
-Completely new DnA AI repository
+# DnA AI
+
+Completely new repository for DnA AI.
